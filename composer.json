@@ -17,7 +17,7 @@
         "php": ">=5.5.9",
         "illuminate/support": "~5.0"
     },
-    "autoload": {
+    "autoload-dev": {
         "psr-4": {
             "Appzcoder\\LumenRoutesList\\": "src/"
         }
